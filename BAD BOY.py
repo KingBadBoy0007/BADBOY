@@ -96,12 +96,12 @@ logo=("""\033[1;32m
 \033[1;91m      ##\033[1;93m #######\033[1;96m ##  ##\033[1;95m ##  ##\033[1;97m ##  ##\033[1;92m ##  ##
 \033[1;91m   #### \033[1;93m  ## ## \033[1;96m ##  ##\033[1;95m  #### \033[1;97m  #### \033[1;92m ##  ##
 ┏━━━━━━━━━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━━━━━━━━━━┓
-┃ DEVELOPER   :   BAD BOY┃
-┃ FACEBOOK    :   Fb.com/AFGHAN BOY Official ┃
-┃ GITHUB      :   Gh.com/AFGHAN BOY Official ┃
-┃ VERSION     :   1.2.7                      ┃
+┃ DEVELOPER   :   BAD BOY.                          ┃
+┃ FACEBOOK    :   Fb.com/AFGHAN BOY Official        ┃
+┃ GITHUB      :   Gh.com/AFGHAN BOY Official        ┃
+┃ VERSION     :   1.0                               ┃
 ┃\033[1;93m USE YOUR BRAIN, MAKE GOOGLE YOUR FRIEND    \033[1;92m┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 #┃\033[1;91m NOTE ‼ ‼    :   USE ONLY FOR EDUCATION     \033[1;92m┃
 def linex():
         print('\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
